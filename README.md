@@ -1,5 +1,7 @@
 # PowerBI Project Chocolate Sales Analysis
 
+Explore the interactive dashboard: [Chocolate Sales Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWY5OTA3YmUtMzEzNi00MTEzLWI0MTctYTAzZmI2OTgxZGQ3IiwidCI6IjU0MTM4MTA5LTNiOGEtNDMzNy1hYzk2LTY4ZDE4ODM0NmNhOCIsImMiOjl9)
+
 ## Table of Contents
 1. [Problem Statement](#problem-statement)
 2. [Chocolate Sales Dashboard](#chocolate-sales-dashboard)
